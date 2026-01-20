@@ -85,7 +85,7 @@ This project focuses on evaluating the real-world usability of advanced TTS and 
 
 <br/>
 
-<h3>🌟 Audio To Song in Youtube</h3>
+<h3>🌟 AI Model Demos & Experiments</h3>
 <p align="center">
   <a href="https://github.com/Kietnehi/Test-Model-In-Github">
     <img src="https://img.shields.io/github/stars/Kietnehi/Test-Model-In-Github?style=for-the-badge&color=yellow" alt="Stars"/>

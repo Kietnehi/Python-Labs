@@ -41,7 +41,7 @@ This project focuses on evaluating the real-world usability of advanced TTS and 
 
 ---
 
-## 🔗 Actor's Github
+## 🔗 Author's Github
 
 <div align="center">
 

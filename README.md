@@ -36,7 +36,8 @@ This project focuses on evaluating the real-world usability of advanced TTS and 
 
 ---
 
-### 🔹 LangExtract
+### 🔹 LangExtract — Structured Data Extraction with LLMs
+
 
 ![LangExtract Demo](https://raw.githubusercontent.com/google/langextract/main/docs/_static/romeo_juliet_basic.gif)
 

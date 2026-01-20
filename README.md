@@ -36,6 +36,30 @@ This project focuses on evaluating the real-world usability of advanced TTS and 
 
 ---
 
+### 🔹 LangExtract
+
+![LangExtract Demo](https://raw.githubusercontent.com/google/langextract/main/docs/_static/romeo_juliet_basic.gif)
+
+🔗 GitHub Repository: https://github.com/google/langextract?tab=readme-ov-file  
+
+**LangExtract** is a Python library that uses Large Language Models (LLMs) to extract structured information from unstructured text documents based on user-defined instructions.
+
+### ✨ Key Capabilities
+
+- **Structured Data Extraction**  
+  Converts raw text (such as clinical notes, reports, or novels) into organized, structured data outputs.
+
+- **Precise Source Grounding**  
+  Maps every extracted entity back to its exact location in the original source text, making verification easy and reliable.
+
+- **Long Document Processing**  
+  Handles large documents using text chunking, parallel processing, and multiple extraction passes to ensure high recall.
+
+- **Interactive Visualization**  
+  Generates self-contained HTML files that allow you to visually review extracted entities directly in their original context.
+
+
+---
 
 ✨ More open-source AI models will be added and tested in this repository in the future.
 

@@ -124,8 +124,9 @@ This project focuses on evaluating the real-world usability of advanced TTS and 
 ### 🔹 DuckDuckGo Search — Automated Web Search for AI & Data Projects
 
 <p align="center">
-  <img src="images/duckduckgo.png" width="120" alt="DuckDuckGo Logo"/>
+  <img src="images/duckduckgo.png" style="max-width:50%; height:auto;" alt="DuckDuckGo Logo"/>
 </p>
+
 
 The `duckduckgo-search` package (now renamed to `ddgs`) in Python is mainly used to **automate web searching** without using a browser, serving applications that require up-to-date data.
 

@@ -127,7 +127,6 @@ This project focuses on evaluating the real-world usability of advanced TTS and 
   <img src="images/duckduckgo.png" style="max-width:50%; height:auto;" alt="DuckDuckGo Logo"/>
 </p>
 
-
 The `duckduckgo-search` package (now renamed to `ddgs`) in Python is mainly used to **automate web searching** without using a browser, serving applications that require up-to-date data.
 
 #### 📥 Installation
@@ -159,6 +158,10 @@ pip install -U ddgs
 | **LangChain integration** | Connect search with AI models (LLMs) to build intelligent applications | Used when building AI assistants or search-enabled chatbots |
 | **Direct HTML scraping**  | Collect data when there is no official API                             | More complex and fragile if the page structure changes      |
 
+#### 🖥️ How to Test DuckDuckGo UI
+
+If you want to test or run the DuckDuckGo search UI, please go to the `duckduckgo-ui` folder and read the file [duckduckgo-ui/README.md](duckduckgo-ui/README.md) for detailed setup and usage instructions.
+
 #### Practical Applications
 
 * **News aggregation**: Automatically search for and summarize the latest news on a topic.
@@ -166,6 +169,10 @@ pip install -U ddgs
 * **Providing data for AI**: Help chatbots answer questions about the latest events.
 
 **Original GitHub repository:** [https://github.com/deedy5/ddgs](https://github.com/deedy5/ddgs)
+
+
+
+---
 
 ✨ More open-source AI models will be added and tested in this repository in the future.
 

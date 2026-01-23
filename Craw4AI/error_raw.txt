@@ -1,0 +1,7 @@
+assistant
+    [
+        "If",
+pasted_github_url",
+        "Sticky Note - Basic LLM Chain - Ollama Chat Model - paster_mihailtd",
+        "Sticky Note - AI Agent - paster_derekcheung"
+    ]

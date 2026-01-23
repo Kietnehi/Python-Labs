@@ -16,6 +16,7 @@ venv/
 .venv/
 OpenRouter/
 Groq/
+Model_Free.md
 # =========================
 # Jupyter / Colab
 # =========================

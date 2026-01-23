@@ -120,6 +120,52 @@ This project focuses on evaluating the real-world usability of advanced TTS and 
 - **Readme:** [Github Repository Crawl4AI](https://github.com/unclecode/crawl4ai)
 
 ---
+
+### 🔹 DuckDuckGo Search — Automated Web Search for AI & Data Projects
+
+<p align="center">
+  <img src="images/duckduckgo.png" width="120" alt="DuckDuckGo Logo"/>
+</p>
+
+The `duckduckgo-search` package (now renamed to `ddgs`) in Python is mainly used to **automate web searching** without using a browser, serving applications that require up-to-date data.
+
+#### 📥 Installation
+
+```bash
+pip install duckduckgo-search
+pip install -U ddgs
+```
+
+> ⚠️ The package was renamed from `duckduckgo-search` to **`ddgs`**.
+> You can install either the legacy name or the updated package as shown above.
+
+---
+#### Key Features
+
+* **Purpose**: Retrieve search results (text, images, news, videos) directly in Python code.
+* **Use cases**:
+  * Automated news aggregation and research tools
+  * Collecting data for AI/ML projects (real-time data for LLMs via LangChain, etc.)
+  * Automating the search and download of documents (PDF, DOC, etc.)
+
+> ⚠️ **Note**: This package has been renamed from `duckduckgo-search` to **`ddgs`**. Install with: `pip install ddgs`
+
+#### Other Ways to Use DuckDuckGo in Python
+
+| Method                    | Main Purpose                                                           | Notes                                                       |
+| ------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **`ddgs` package**        | Flexible automated web searching                                       | Most popular and easiest to use                             |
+| **LangChain integration** | Connect search with AI models (LLMs) to build intelligent applications | Used when building AI assistants or search-enabled chatbots |
+| **Direct HTML scraping**  | Collect data when there is no official API                             | More complex and fragile if the page structure changes      |
+
+#### Practical Applications
+
+* **News aggregation**: Automatically search for and summarize the latest news on a topic.
+* **Automated research**: Collect information and academic articles from the web.
+* **Providing data for AI**: Help chatbots answer questions about the latest events.
+
+**Original GitHub repository:** [https://github.com/deedy5/ddgs](https://github.com/deedy5/ddgs)
+
 ✨ More open-source AI models will be added and tested in this repository in the future.
 
 ## 🔗 Author's Github
@@ -186,3 +232,7 @@ This project focuses on evaluating the real-world usability of advanced TTS and 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
 </div>
+
+
+
+

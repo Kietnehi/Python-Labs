@@ -1,4 +1,3 @@
-Dưới đây là một bản **README.md hoàn chỉnh** (bằng tiếng Việt) cho notebook **Test_YouTube.ipynb** dựa trên mô tả bạn cung cấp. Bạn có thể copy trực tiếp vào file `README.md` trong repo.
 
 ---
 

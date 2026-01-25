@@ -1,4 +1,3 @@
-Dưới đây là một bản **README.md** hoàn chỉnh (bằng tiếng Việt) dựa trên mô tả bạn cung cấp. Bạn có thể copy trực tiếp vào file `README.md` trong thư mục `GEMINI_API_TOOL` và chỉnh sửa thêm nếu cần.
 
 ---
 

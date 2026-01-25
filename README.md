@@ -1,3 +1,4 @@
+
 ## 🤖 Repository Purpose
 
 This repository is used to **test and experiment with various open-source projects on GitHub** related to:
@@ -173,6 +174,26 @@ If you want to test or run the DuckDuckGo search UI, please go to the `duckduckg
 
 ---
 
+
+
+### 🔹 Tavily API Search — Automated Web Search, Crawling & Extraction
+
+<p align="center">
+  <img src="images/tavily.jpg" width="180" alt="Tavily Logo"/>
+</p>
+
+The `Tavily_APi_Search` folder provides scripts for automating web search, crawling, and data extraction using the Tavily API:
+
+* **basic_or_advance_search.py**: Perform both basic and advanced searches with Tavily API.
+* **crawl.py**: Crawl web pages and collect data from URLs.
+* **extract.py**: Extract structured information from crawled content.
+* **research.py**: Automate research tasks and poll for results from Tavily API.
+* **test_full.py**: Full-featured testing of Tavily API capabilities.
+* **test_map.py**: Demonstrate mapping or location-based search features.
+
+🔗 **Original GitHub tavily-python repository:** [https://github.com/tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python)
+
+---
 
 ### 🔹 YouTube API & yt-dlp — Download & Transcript Extraction
 

@@ -178,9 +178,9 @@ If you want to test or run the DuckDuckGo search UI, please go to the `duckduckg
 
 ### 🔹 Tavily API Search — Automated Web Search, Crawling & Extraction
 
-<p align="center">
-  <img src="images/tavily.jpg" width="180" alt="Tavily Logo"/>
-</p>
+<div align="center">
+  <img src="images/tavily.jpg" width="300" alt="Tavily Logo"/>
+</div>
 
 The `Tavily_APi_Search` folder provides scripts for automating web search, crawling, and data extraction using the Tavily API:
 
@@ -197,9 +197,9 @@ The `Tavily_APi_Search` folder provides scripts for automating web search, crawl
 
 ### 🔹 YouTube API & yt-dlp — Download & Transcript Extraction
 
-<p align="center">
-  <img src="images/youtube.png" width="180" alt="YouTube Logo"/>
-</p>
+<div align="center">
+  <img src="images/youtube.png" width="300" alt="YouTube Logo"/>
+</div>
 
 **yt-dlp** is a powerful tool for downloading videos, audio, and subtitles from YouTube and many other platforms. Combine it with **youtube-transcript-api** to automatically extract transcripts (subtitles) from YouTube videos directly in Python.
 
@@ -222,9 +222,9 @@ The `Tavily_APi_Search` folder provides scripts for automating web search, crawl
 
 ### 🔹 Gemini API Tool — Google Gemini AI & Data Utilities
 
-<p align="center">
-  <img src="images/gemini.jpg" width="180" alt="Gemini Logo"/>
-</p>
+<div align="center">
+  <img src="images/gemini.jpg" width="300" alt="Gemini Logo"/>
+</div>
 
 
 The `GEMINI_API_TOOL` folder provides scripts and notebooks for working with Google Gemini API and related data tasks:

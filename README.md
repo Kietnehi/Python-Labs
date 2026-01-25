@@ -171,10 +171,48 @@ If you want to test or run the DuckDuckGo search UI, please go to the `duckduckg
 **Original GitHub repository:** [https://github.com/deedy5/ddgs](https://github.com/deedy5/ddgs)
 
 
+---
+
+
+### 🔹 YouTube API & yt-dlp — Download & Transcript Extraction
+
+<p align="center">
+  <img src="images/youtube.png" width="180" alt="YouTube Logo"/>
+</p>
+
+**yt-dlp** is a powerful tool for downloading videos, audio, and subtitles from YouTube and many other platforms. Combine it with **youtube-transcript-api** to automatically extract transcripts (subtitles) from YouTube videos directly in Python.
+
+#### Key Features
+
+* Download video/audio in various qualities
+* Download playlists and multilingual subtitles
+* Extract transcripts (subtitles) automatically or from user-uploaded captions
+* Easily integrate into AI, NLP, and data aggregation workflows
+
+🔗 **Original GitHub yt-dlp repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+🔗 **Original GitHub youtube-transcript-api repository:** [https://github.com/jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
+
 
 ---
 
 ✨ More open-source AI models will be added and tested in this repository in the future.
+
+
+### 🔹 Gemini API Tool — Google Gemini AI & Data Utilities
+
+<p align="center">
+  <img src="images/gemini.jpg" width="180" alt="Gemini Logo"/>
+</p>
+
+The `GEMINI_API_TOOL` folder provides scripts and notebooks for working with Google Gemini API and related data tasks:
+
+* **Code_Execution.ipynb**: Jupyter notebook for running and testing Gemini API code, including code samples and data processing demos.
+* **google_map.py**: Script for interacting with Google Maps, possibly using Gemini API for geolocation or mapping tasks.
+* **sales.csv**: Example sales data for analysis or demo purposes.
+* **Search_Citation.py**: Script for searching and generating citations, leveraging Gemini API or other search APIs.
+
+---
 
 ## 🔗 Author's Github
 

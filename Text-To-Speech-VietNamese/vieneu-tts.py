@@ -1,3 +1,6 @@
+# !# Windows (Avoid llama-cpp build errors)
+# pip install vieneu --extra-index-url https://pnnbao97.github.io/llama-cpp-python-v0.3.16/cpu/
+
 from vieneu import Vieneu
 import os
 

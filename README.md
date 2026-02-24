@@ -267,6 +267,27 @@ The **Text To Speech Vietnamese** module provides multiple scripts for convertin
 
 ---
 
+### 🔹 RAG Anything — Multimodal RAG Pipeline Experiments
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HKUDS/RAG-Anything/main/assets/logo.png" width="400"/>
+</p>
+
+The **RAG Anything** module contains experiments for building Retrieval-Augmented Generation (RAG) workflows that can work with mixed data types (text, image, and structured sources) in practical AI scenarios.
+
+#### 🔗 Resources
+
+- 🌐 GitHub Repository: [RAG Anything (Official Repo)](https://github.com/HKUDS/RAG-Anything)
+- 📘 Project README: [RAG Anything Module](./RAG%20Anything/README.md)
+- 📄 Research Paper (PDF): [View Paper](./RAG%20Anything/2510.12323v1.pdf)
+
+#### ✨ Key Features
+
+- End-to-end RAG experimentation with notebook-based workflows  
+- Focus on multimodal inputs for more robust retrieval and response generation  
+- Useful baseline setup for testing indexing, retrieval, and generation quality  
+---
+
 ## 🔗 Author's Github
 
 <div align="center">

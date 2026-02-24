@@ -91,6 +91,16 @@
   </a>
 </div>
 
+
+
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HKUDS/RAG-Anything/main/assets/rag_anything_framework.png"
+       alt="RAG-Anything Framework Architecture"
+       width="100%"/>
+</div>
 ---
 
 # 🚀 RAG-Anything: Framework RAG Tất Cả Trong Một

@@ -288,7 +288,7 @@ The **RAG Anything** module contains experiments for building Retrieval-Augmente
 - Useful baseline setup for testing indexing, retrieval, and generation quality  
 ---
 
-## 🔗 Author's Github
+## 🔗 Author's Github  
 
 <div align="center">
 
@@ -299,18 +299,18 @@ The **RAG Anything** module contains experiments for building Retrieval-Augmente
     <img src="https://github.com/Kietnehi.png" width="140" height="140" style="border-radius: 50%; border: 4px solid #A371F7;" alt="Avatar Trương Phú Kiệt"/>
   </a>
 </p>
-   
+
 <h3>🚀 Trương Phú Kiệt</h3>
 
 <a href="https://github.com/Kietnehi">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=236AD3&background=00000000&center=true&vCenter=true&width=435&lines=Student+@+Sai+Gon+University;Fullstack+Dev+%26+AI+Researcher;Test+Model+In+Github" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=236AD3&background=00000000&center=true&vCenter=true&width=435&lines=Student+@+Sai+Gon+University;Fullstack+Dev+%26+AI+Researcher;Python+Labs+Project" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SGU-Sai_Gon_University-0056D2?style=flat-square&logo=google-scholar&logoColor=white" alt="SGU"/>
-  <img src="https://img.shields.io/badge/Base-Ho_Chi_Minh_City-FF4B4B?style=flat-square&logo=google-maps&logoColor=white" alt="HCMC"/>   
+  <img src="https://img.shields.io/badge/Base-Ho_Chi_Minh_City-FF4B4B?style=flat-square&logo=google-maps&logoColor=white" alt="HCMC"/>
 </p>
 
 <p align="center">
@@ -322,7 +322,6 @@ The **RAG Anything** module contains experiments for building Retrieval-Augmente
   </a>
 </p>
 
-
 <h3>🛠 Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -332,21 +331,27 @@ The **RAG Anything** module contains experiments for building Retrieval-Augmente
 
 <br/>
 
-<h3>🌟 AI Model Demos & Experiments</h3>
+<h3>🐍 Python Labs – Experiments & Practice</h3>
+
 <p align="center">
-  <a href="https://github.com/Kietnehi/Test-Model-In-Github">
-    <img src="https://img.shields.io/github/stars/Kietnehi/Test-Model-In-Github?style=for-the-badge&color=yellow" alt="Stars"/>
-    <img src="https://img.shields.io/github/forks/Kietnehi/Test-Model-In-Github?style=for-the-badge&color=orange" alt="Forks"/>
-    <img src="https://img.shields.io/github/issues/Kietnehi/Test-Model-In-Github?style=for-the-badge&color=red" alt="Issues"/>
+  <a href="https://github.com/Kietnehi/Python-Labs">
+    <img src="https://img.shields.io/github/stars/Kietnehi/Python-Labs?style=for-the-badge&color=yellow" alt="Stars"/>
+    <img src="https://img.shields.io/github/forks/Kietnehi/Python-Labs?style=for-the-badge&color=orange" alt="Forks"/>
+    <img src="https://img.shields.io/github/issues/Kietnehi/Python-Labs?style=for-the-badge&color=red" alt="Issues"/>
   </a>
 </p>
+
+<p align="center">
+<i>Collection of Python experiments, AI practice, backend demos, and mini projects.</i>
+</p>
+
 <!-- Quote động -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote"/>
 </p>
+
 <p align="center">
 <i>Thank you for stopping by! Don’t forget to give this repo a <b>⭐️ Star</b> if you find it useful.</i>
-
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>

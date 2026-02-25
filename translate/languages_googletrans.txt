@@ -1,0 +1,247 @@
+Ký hiệu    | Tên ngôn ngữ
+------------------------------
+abk        | Abkhaz
+ace        | Acehnese
+ach        | Acholi
+aar        | Afar
+af         | Afrikaans
+sq         | Albanian
+alz        | Alur
+am         | Amharic
+ar         | Arabic
+hy         | Armenian
+as         | Assamese
+ava        | Avar
+awa        | Awadhi
+ay         | Aymara
+az         | Azerbaijani
+ban        | Balinese
+bal        | Baluchi
+bm         | Bambara
+bci        | Baoulé
+bak        | Bashkir
+eu         | Basque
+btx        | Batak karo
+bts        | Batak simalungun
+bbc        | Batak toba
+be         | Belarusian
+bem        | Bemba
+bn         | Bengali
+bew        | Betawi
+bho        | Bhojpuri
+bik        | Bikol
+bs         | Bosnian
+bre        | Breton
+bg         | Bulgarian
+bua        | Buryat
+yue        | Cantonese
+ca         | Catalan
+ceb        | Cebuano
+cha        | Chamorro
+che        | Chechen
+zh         | Chinese
+zh-cn      | Chinese (simplified)
+zh-tw      | Chinese (traditional)
+chk        | Chuukese
+chv        | Chuvash
+co         | Corsican
+crh        | Crimean tatar
+hr         | Croatian
+cs         | Czech
+da         | Danish
+fa-af      | Dari
+dv         | Dhivehi
+din        | Dinka
+doi        | Dogri
+dom        | Dombe
+nl         | Dutch
+dyu        | Dyula
+dzo        | Dzongkha
+en         | English
+eo         | Esperanto
+et         | Estonian
+fao        | Faroese
+fij        | Fijian
+fil        | Filipino (tagalog)
+fi         | Finnish
+fon        | Fon
+fr         | French
+fy         | Frisian
+fur        | Friulian
+ful        | Fulani
+gaa        | Ga
+gl         | Galician
+ka         | Georgian
+de         | German
+el         | Greek
+gn         | Guarani
+gu         | Gujarati
+ht         | Haitian creole
+cnh        | Hakha chin
+ha         | Hausa
+haw        | Hawaiian
+he         | Hebrew
+iw         | Hebrew
+hil        | Hiligaynon
+hi         | Hindi
+hmn        | Hmong
+hu         | Hungarian
+hrx        | Hunsrik
+iba        | Iban
+is         | Icelandic
+ig         | Igbo
+ilo        | Ilocano
+id         | Indonesian
+ga         | Irish
+it         | Italian
+jam        | Jamaican patois
+ja         | Japanese
+jv         | Javanese
+jw         | Javanese
+kac        | Jingpo
+kal        | Kalaallisut
+kn         | Kannada
+kau        | Kanuri
+pam        | Kapampangan
+kk         | Kazakh
+kha        | Khasi
+km         | Khmer
+cgg        | Kiga
+kik        | Kikongo
+rw         | Kinyarwanda
+ktu        | Kituba
+trp        | Kokborok
+kom        | Komi
+gom        | Konkani
+ko         | Korean
+kri        | Krio
+ku         | Kurdish
+ckb        | Kurdish (sorani)
+ky         | Kyrgyz
+lo         | Lao
+ltg        | Latgalian
+la         | Latin
+lv         | Latvian
+lij        | Ligurian
+lim        | Limburgish
+ln         | Lingala
+lt         | Lithuanian
+lmo        | Lombard
+lg         | Luganda
+luo        | Luo
+lb         | Luxembourgish
+mk         | Macedonian
+mad        | Madurese
+mai        | Maithili
+mak        | Makassar
+mg         | Malagasy
+ms         | Malay
+ms-arab    | Malay (jawi)
+ml         | Malayalam
+mt         | Maltese
+mam        | Mam
+glv        | Manx
+mi         | Maori
+mr         | Marathi
+mah        | Marshallese
+mwr        | Marwadi
+mfe        | Mauritian creole
+mhr        | Meadow mari
+mni-mtei   | Meiteilon (manipuri)
+min        | Minang
+lus        | Mizo
+mn         | Mongolian
+my         | Myanmar (burmese)
+nhe        | Nahuatl (eastern huasteca)
+ndc-zw     | Ndau
+nde        | Ndebele (south)
+new        | Nepalbhasa (newari)
+ne         | Nepali
+no         | Norwegian
+nus        | Nuer
+ny         | Nyanja (chichewa)
+oci        | Occitan
+or         | Odia (oriya)
+om         | Oromo
+oss        | Ossetian
+pag        | Pangasinan
+pap        | Papiamento
+ps         | Pashto
+fa         | Persian
+pl         | Polish
+por        | Portuguese (portugal)
+pt         | Portuguese (portugal, brazil)
+pa         | Punjabi
+pa-arab    | Punjabi (shahmukhi)
+kek        | Q'eqchi'
+qu         | Quechua
+rom        | Romani
+ro         | Romanian
+run        | Rundi
+ru         | Russian
+sme        | Sami (north)
+sm         | Samoan
+sag        | Sango
+sa         | Sanskrit
+sat        | Santali
+gd         | Scots gaelic
+nso        | Sepedi
+sr         | Serbian
+st         | Sesotho
+crs        | Seychellois creole
+shn        | Shan
+sn         | Shona
+scn        | Sicilian
+szl        | Silesian
+sd         | Sindhi
+si         | Sinhala (sinhalese)
+sk         | Slovak
+sl         | Slovenian
+so         | Somali
+es         | Spanish
+su         | Sundanese
+sus        | Susu
+sw         | Swahili
+ssw        | Swati
+sv         | Swedish
+tl         | Tagalog (filipino)
+tah        | Tahitian
+tg         | Tajik
+ber-atn    | Tamazight
+ber        | Tamazight (tifinagh)
+ta         | Tamil
+tt         | Tatar
+te         | Telugu
+tet        | Tetum
+th         | Thai
+bod        | Tibetan
+ti         | Tigrinya
+tiv        | Tiv
+tpi        | Tok pisin
+ton        | Tongan
+ts         | Tsonga
+tsn        | Tswana
+tcy        | Tulu
+tum        | Tumbuka
+tr         | Turkish
+tk         | Turkmen
+tuk        | Tuvan
+ak         | Twi (akan)
+udm        | Udmurt
+uk         | Ukrainian
+ur         | Urdu
+ug         | Uyghur
+uz         | Uzbek
+ven        | Venda
+vec        | Venetian
+vi         | Vietnamese
+war        | Waray
+cy         | Welsh
+wol        | Wolof
+xh         | Xhosa
+sah        | Yakut
+yi         | Yiddish
+yo         | Yoruba
+yua        | Yucatec maya
+zap        | Zapotec
+zu         | Zulu

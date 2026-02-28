@@ -1,5 +1,8 @@
 
 ## 🤖 Repository Purpose
+<p align="center">
+  <img src="images/project.png" alt="DuckDuckGo Logo" width="800"/>
+</p>
 
 This repository is used to **test and experiment with various open-source projects on GitHub** related to:
 
